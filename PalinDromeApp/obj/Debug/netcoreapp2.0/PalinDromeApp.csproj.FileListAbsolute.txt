@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\test\PalinDromeApp\bin\Debug\netcoreapp2.0\PalinDromeApp.deps.json
+C:\Users\Administrator\Documents\test\PalinDromeApp\bin\Debug\netcoreapp2.0\PalinDromeApp.runtimeconfig.json
+C:\Users\Administrator\Documents\test\PalinDromeApp\bin\Debug\netcoreapp2.0\PalinDromeApp.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\test\PalinDromeApp\bin\Debug\netcoreapp2.0\PalinDromeApp.dll
+C:\Users\Administrator\Documents\test\PalinDromeApp\bin\Debug\netcoreapp2.0\PalinDromeApp.pdb
+C:\Users\Administrator\Documents\test\PalinDromeApp\obj\Debug\netcoreapp2.0\PalinDromeApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\test\PalinDromeApp\obj\Debug\netcoreapp2.0\PalinDromeApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\test\PalinDromeApp\obj\Debug\netcoreapp2.0\PalinDromeApp.AssemblyInfo.cs
+C:\Users\Administrator\Documents\test\PalinDromeApp\obj\Debug\netcoreapp2.0\PalinDromeApp.dll
+C:\Users\Administrator\Documents\test\PalinDromeApp\obj\Debug\netcoreapp2.0\PalinDromeApp.pdb
